@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//arnavbhatiamait.github.io/Testimonial-site/static/css/main.8b0b0204.css",
+    "main.js": "//arnavbhatiamait.github.io/Testimonial-site/static/js/main.ac89f77f.js",
+    "index.html": "//arnavbhatiamait.github.io/Testimonial-site/index.html",
+    "main.8b0b0204.css.map": "//arnavbhatiamait.github.io/Testimonial-site/static/css/main.8b0b0204.css.map",
+    "main.ac89f77f.js.map": "//arnavbhatiamait.github.io/Testimonial-site/static/js/main.ac89f77f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0b0204.css",
+    "static/js/main.ac89f77f.js"
+  ]
+}
